@@ -4,6 +4,6 @@ namespace Haku
 {
     public class menu : MonoBehaviour
     {
-        string name = "game";
+        float speed = 3.5f;
     }
 }
