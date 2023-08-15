@@ -4,6 +4,6 @@ namespace Haku
 {
     public class menu : MonoBehaviour
     {
-        int id = 1;
+        bool start = false;
     }
 }
